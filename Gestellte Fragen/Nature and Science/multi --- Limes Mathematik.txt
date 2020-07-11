@@ -1,0 +1,17 @@
+==================================================
+CATEGORY: Nature and Science
+==================================================
+
+Was bezeichnet der Begriff Limes in der Mathematik?
+
+[A] Den Grenzwert einer Funktion oder Zahlenfolge
+
+[B] Die Summe der Längen der Kanten eines Tetraeders
+
+[C] Eine Berechnungsformel für Länge einer Kante eines Vielecks, von dem nur die Längen der anderen aneinander treffenden Kanten sowie die Winkel zwischen diesen anderen Kanten bekannt sind. Der Begriff stammt angeblich aus der Vermessung für den Bau des Limes-Grenzwalls durch das Römische Reich, wurde aber erst durch C.F.Gauß in dieser Form verwendet.
+
+[D] Den größten bzw. kleinsten möglichen positiven oder negativen Wert einer Polynomialfunktion zwischen zwei Nullstellen (so es mindestens zwei gibt).
+
+==================================================
+
+-----> CORRECT ANSWER: [A]

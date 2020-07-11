@@ -1,0 +1,21 @@
+==================================================
+CATEGORY: Musik der 90er
+==================================================
+
+Welches Motiv ziert Album "In Utero" der Grunge-Band "Nirvana"?
+
+<<<<<<< HEAD
+[A] Ein im Wasser schwimmendes Baby mit einer Dollarnote
+=======
+[A] Ein im Wasser schwimmendes Baby mit einer Dollernote
+
+>>>>>>> 3de767e2cb27f8ce679c7217b8f9ded155bbc72d
+[B] Eine weibliche Figur mit Engelsflügeln
+
+[C] Ein Bild der Band "Nirvana" bei einem Konzert
+
+[D] Ein Embryo im Mutterleib
+
+==================================================
+
+-----> CORRECT ANSWER: [B]

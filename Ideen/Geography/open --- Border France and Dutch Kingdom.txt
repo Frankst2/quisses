@@ -1,0 +1,9 @@
+==================================================
+CATEGORY: Geography
+==================================================
+
+Yes-or-No: Hat die Französische Republik eine Landesgrenze (nicht auf See) mit dem Königreich der Niederlande?
+
+==================================================
+
+-----> CORRECT ANSWER: Ja, Saint Martin, der Norden ist französisches Überseegebiet und gehört damit zum französischen Staatsgebiet, der Süden ist Teil des Königreichs der Niederlande

@@ -1,0 +1,17 @@
+==================================================
+CATEGORY: Essen und Trinken
+==================================================
+
+Welche Brauerei produziert die Hackerbrause Club Mate?
+
+[A] Locher Brauerei
+
+[B] Loscher Brauerei
+
+[C] Lorscher Brauerei
+
+[D] Lurcher Brauerei
+
+==================================================
+
+-----> CORRECT ANSWER: [B]

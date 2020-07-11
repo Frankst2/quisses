@@ -1,0 +1,18 @@
+==================================================
+CATEGORY: Nature and Science
+==================================================
+
+Was ist ein Raupenantrieb?
+
+[A] Das Antriebsprinzip von Kettenfahrzeugen wie Panzern.
+
+[B] Ein Antriebskonzept für Wasserfahrzeuge, dass sehr wenige beweglicher Teile enthält. Dadurch wird der Antrieb sehr leise. Eine größere mediale Aufmerksamkeit erlangte das Konzept kurz nach dem Ende des Kalten Krieges durch die Arbeit von A. Baldwin und S.Connery. In dieser Arbeit wurden Pläne zum Einsatz damit ausgestatteter U-Boote als Waffe für einen atomaren strategische Erstschlag durch die UDSSR beschrieben.
+
+[C] Ein theoretisches Konzept für einen Antrieb von Raumschiffen. Dabei werden positiv geladene Photonen beim Austritt aus der Düse durch die wiederholte Umkehr der Polarität eines Magnetfeldes in Drehung versetzt. Dadurch macht man sich einen ähnlichen Effekt wie den das Drall bei Schusswaffen zu nutze, um den Photonenstrahl zu konzentrieren.
+
+[D] Ein von Johannes Tesla entwickeltes Gegenkonzept zum Otto-, Diesel und Wankel-Motor, welches aber an der praktischen Umsetzung gescheitert ist.
+
+==================================================
+
+-----> CORRECT ANSWER: [B]
+
